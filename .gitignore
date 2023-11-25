@@ -1,2 +1,4 @@
 .venv
 Pipfile.lock
+.ipynb_checkpoints
+.Pipfile.swp

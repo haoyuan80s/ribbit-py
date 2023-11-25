@@ -10,6 +10,7 @@ langchain = "*"
 polars = "*"
 ipdb = "*"
 jupyterlab = "*"
+notebook = "*"
 
 [dev-packages]
 
